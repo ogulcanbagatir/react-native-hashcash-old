@@ -33,21 +33,20 @@
   "license": "MIT",
   "homepage": "https://github.com/tolgaatam/react-native-hashcash-old#readme",
   "dependencies": {
-    "expo": "~48.0.15",
+    "expo": "^50.0.4",
     "expo-splash-screen": "~0.18.2",
     "expo-status-bar": "~1.4.4",
-    "react": "18.2.0",
-    "react-native": "0.71.7"
+    "react": "*",
+    "react-native": "*"
   },
   "devDependencies": {
+    "@babel/core": "^7.20.0",
     "@types/react": "^18.0.25",
     "@types/react-native": "^0.70.6",
     "expo-module-scripts": "^3.0.4",
-    "expo-modules-core": "^1.1.0",
-    "@babel/core": "^7.20.0"
+    "expo-modules-core": "^1.1.0"
   },
   "peerDependencies": {
-    "expo": "*",
     "react": "*",
     "react-native": "*"
   }
